@@ -1,0 +1,15 @@
+.container{
+    display: flex;
+    width: 300px;
+    height: 500px;
+    border: 1px solid #fff;
+    border-radius: 10px;
+    padding: 5px 10px;
+    background: rgba(31, 53, 110, 0.81);
+    color: #fff;
+;
+}
+img{
+    border: 1px solid #fff;
+    border-radius: 20px;
+}

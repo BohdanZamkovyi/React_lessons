@@ -1,5 +1,9 @@
 .App {
+  display: flex;
+  flex-wrap: wrap;
   text-align: center;
+  margin: 10px;
+  gap: 10px;
 }
 
 .App-logo {
