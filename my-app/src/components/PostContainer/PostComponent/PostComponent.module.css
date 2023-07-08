@@ -1,0 +1,18 @@
+.wrapper_post{
+    border: 1px solid #000;
+    border-radius: 10px;
+    margin: 5px;
+    width: 80%;
+    padding: 10px;
+    box-sizing: border-box;
+}
+.header_post{
+
+}
+.body_post{
+}
+.btnShow{
+ padding: 7px 20px;
+ border-radius: 10px;
+ margin: 10px;
+}
